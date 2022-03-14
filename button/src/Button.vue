@@ -12,7 +12,7 @@ const props = defineProps({
 <style lang="scss" scoped>
 button {
   padding: var(--vue-spacing-00) var(--vue-spacing-2);
-  border-radius: var(--border-radius-x-large);
+  border-radius: var(--vue-border-radius-pill);
   border: 1px solid var(--vue-color-border);
   font-family: var(--vue-font-family);
   font-size: var(--vue-font-size-00);
