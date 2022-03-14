@@ -21,7 +21,7 @@ button {
   text-transform: uppercase;
 
   &.primary {
-    background-color: var(--vue-color-primary);
+    background-color: pink;
     color: var(--vue-color-text-on-primary);
   }
 
